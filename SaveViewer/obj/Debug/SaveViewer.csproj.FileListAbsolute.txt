@@ -1,0 +1,15 @@
+C:\Users\Ali\source\repos\SaveViewer\SaveViewer\bin\Debug\GUI.dll
+C:\Users\Ali\source\repos\SaveViewer\SaveViewer\obj\Debug\SaveViewer.csprojAssemblyReference.cache
+C:\Users\Ali\source\repos\SaveViewer\SaveViewer\obj\Debug\SaveViewer.Form1.resources
+C:\Users\Ali\source\repos\SaveViewer\SaveViewer\obj\Debug\SaveViewer.csproj.GenerateResource.cache
+C:\Users\Ali\source\repos\SaveViewer\SaveViewer\obj\Debug\SaveViewer.csproj.CoreCompileInputs.cache
+C:\Users\Ali\source\repos\SaveViewer\SaveViewer\obj\Debug\SaveViewer.csproj.CopyComplete
+C:\Users\Ali\source\repos\SaveViewer\SaveViewer\bin\Debug\SaveViewer & Protector.exe.config
+C:\Users\Ali\source\repos\SaveViewer\SaveViewer\bin\Debug\SaveViewer & Protector.exe
+C:\Users\Ali\source\repos\SaveViewer\SaveViewer\bin\Debug\SaveViewer & Protector.pdb
+C:\Users\Ali\source\repos\SaveViewer\SaveViewer\obj\Debug\SaveViewerProtector.Properties.Resources.resources
+C:\Users\Ali\source\repos\SaveViewer\SaveViewer\obj\Debug\SaveViewer & Protector.exe
+C:\Users\Ali\source\repos\SaveViewer\SaveViewer\obj\Debug\SaveViewer & Protector.pdb
+C:\Users\Ali\source\repos\SaveViewer\SaveViewer\obj\Debug\SaveViewerProtector.UIAccounts.resources
+C:\Users\Ali\source\repos\SaveViewer\SaveViewer\bin\Debug\SMAPI.dll
+C:\Users\Ali\source\repos\SaveViewer\SaveViewer\bin\Debug\SMAPI.pdb

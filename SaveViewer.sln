@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31025.218
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SaveViewer", "SaveViewer\SaveViewer.csproj", "{516D1FFE-727B-4AB1-85F4-32AE43C3A333}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{516D1FFE-727B-4AB1-85F4-32AE43C3A333}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{516D1FFE-727B-4AB1-85F4-32AE43C3A333}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{516D1FFE-727B-4AB1-85F4-32AE43C3A333}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{516D1FFE-727B-4AB1-85F4-32AE43C3A333}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {162FF268-CDAD-4EFA-87CA-AFD8C085BF25}
+	EndGlobalSection
+EndGlobal
